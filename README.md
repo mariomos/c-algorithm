@@ -21,7 +21,7 @@ Before running the application, ensure you have the following installed:
     ```bash
     cd ConsoleApp1
     
-3.  Navigate to the project directory:
+3.  Run the application:
 
     ```bash
     dotnet run
